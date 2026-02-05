@@ -32,5 +32,11 @@ The architecture enforces **Bimanual Blindness**:
 *   **GitHub**: Holds the immutable "Laws" (Code and README).
 *   **The Result**: Total sovereignty. Even if external APIs are unavailable, the local environment continues the mission.
 
+### 🎼 Five Notations of the Same Music
+
+The architecture is now documented through five distinct lenses (Technical, Cognitive, Anatomical, Operational, and Symbolic) to ensure total conceptual alignment. See `docs/ARCHITECTURE_VERSIONS.md` for the full breakdown.
+
+> **Unifying Sentence**: DeepSeek decides, Qwen expresses, Gemma humanizes, Smol accelerates, Sentinel connects everything.
+
 ---
 _Chicka chicka orange._
